@@ -24,6 +24,7 @@ export class FusionsolarAccessory {
           this.service.updateCharacteristic(this.platform.Characteristic.CurrentAmbientLightLevel, accessoryValue*1000);
         } else {
           this.service.updateCharacteristic(this.platform.Characteristic.StatusActive, 0);
+          this.service.updateCharacteristic(this.platform.Characteristic.CurrentAmbientLightLevel, 0);
         }
       }, 10000);
     } else if (accessory.context.device.accessory === 'battery_discharging') {
@@ -36,6 +37,7 @@ export class FusionsolarAccessory {
           this.service.updateCharacteristic(this.platform.Characteristic.CurrentAmbientLightLevel, Math.abs(accessoryValue)*1000);
         } else {
           this.service.updateCharacteristic(this.platform.Characteristic.StatusActive, 0);
+          this.service.updateCharacteristic(this.platform.Characteristic.CurrentAmbientLightLevel, 0);
         }
       }, 10000);
     } else if (accessory.context.device.accessory === 'lightsensor') {
