@@ -38,7 +38,7 @@ sudo apt-get install chromium-browser
 ````
 and then:
 ```shell
-sudo npm install -g homebridge-example-plugin@beta
+sudo npm install -g homebridge-fusionsolar
 ```
 
 ### Sample configuration
