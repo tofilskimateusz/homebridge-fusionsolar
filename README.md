@@ -25,6 +25,11 @@ There're several types of accessories created by this plugin:
   - Low status
   - Battery state (charging/not chargable/not charging)
 
+#### This is what we get from FusionSolar
+![FusionSolar app data](https://github.com/tofilskimateusz/homebridge-fusionsolar/blob/main/images/fusionsolar-app-screen1.png?raw=true)
+
+#### This is how it looks like in Homebridge
+![FusionSolar app data](https://github.com/tofilskimateusz/homebridge-fusionsolar/blob/main/images/homebridge_accessories_screen1.png?raw=true)
 ### Install
 
 First install chromium:

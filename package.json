@@ -2,7 +2,7 @@
   "name": "homebridge-fusionsolar",
   "displayName": "Homebridge FusionSolar",
   "type": "module",
-  "version": "1.0.6-beta.0",
+  "version": "1.0.0",
   "private": false,
   "description": "A short description about what your plugin does.",
   "author": "Mateusz Tofilski",
