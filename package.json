@@ -4,7 +4,7 @@
   "type": "module",
   "version": "1.0.1",
   "private": false,
-  "description": "A short description about what your plugin does.",
+  "description": "FusionSolar homebridge integration",
   "author": "Mateusz Tofilski",
   "license": "Apache-2.0",
   "homepage": "https://github.com/tofilskimateusz/homebridge-fusionsolar#readme",
