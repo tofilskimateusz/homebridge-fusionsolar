@@ -2,7 +2,7 @@
   "name": "homebridge-fusionsolar",
   "displayName": "Homebridge FusionSolar",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "description": "FusionSolar homebridge integration",
   "author": "Mateusz Tofilski",
