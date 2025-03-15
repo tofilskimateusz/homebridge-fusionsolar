@@ -2,7 +2,7 @@
   "name": "homebridge-fusionsolar",
   "displayName": "Homebridge FusionSolar",
   "type": "module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "description": "FusionSolar homebridge integration",
   "author": "Mateusz Tofilski",
@@ -10,7 +10,7 @@
   "homepage": "https://github.com/tofilskimateusz/homebridge-fusionsolar#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tofilskimateusz/homebridge-fusionsolar"
+    "url": "https://github.com/tofilskimateusz/homebridge-fusionsolar.git"
   },
   "bugs": {
     "url": "https://github.com/tofilskimateusz/homebridge-fusionsolar/issues"
